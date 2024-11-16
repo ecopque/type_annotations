@@ -1,4 +1,4 @@
-# Typing Anottations
+# Typing Annotations (Hints)
 
 ## Overview
 

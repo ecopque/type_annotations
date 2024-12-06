@@ -25,4 +25,4 @@ print(sum_sum(1, 2, 3))
 # ------------------------------------------------------------------
 #1: Não apontou que o tipo era incompatível com #A:.
 
-# https://linktr.ee/edsoncopque
+# Edson Copque | https://linktr.ee/edsoncopque
